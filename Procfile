@@ -1,1 +1,1 @@
-web: paster serve heroku.ini
+web: ./run
